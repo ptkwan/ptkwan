@@ -1,6 +1,6 @@
 ## Olá eu sou o Patrick Kwan, um físico médico em busca de me aperfeiçoar na área de programação e tecnologia!
 
-### Atualmente realizo o curso de Dados na Ada | Potencia Tech powered by iFood #vemsertech
+Atualmente realizo o curso de Dados na Ada | Potencia Tech powered by iFood #vemsertech
 Nosso foco será:
 
 Dados - 324h
