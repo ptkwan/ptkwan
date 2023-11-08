@@ -4,6 +4,7 @@ Atualmente realizo o curso de Dados na Ada | Potencia Tech powered by iFood #vem
 Nosso foco será:
 
 Dados - 324h
+
 → Lógica de Programação I (PY)
 
 → Lógica de Programação II (PY)
