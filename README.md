@@ -20,7 +20,6 @@ Dados - 324h
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq29LiGESbeo-ZyRshYAJAGwJgRM06En5dOGkh8zImLZ5NXUVQCvv7&usqp=CAE&s">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
