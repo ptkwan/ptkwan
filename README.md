@@ -1,3 +1,7 @@
+<div align="right">banner by: https://www.behance.net/pixeljeff</div>
+
+![banner](banner.webp)
+
 ## Olá eu sou o Patrick Kwan, um físico médico em busca de me aperfeiçoar na área de programação e tecnologia!
 
 Atualmente realizo o curso de Dados na Ada | Potencia Tech powered by iFood #vemsertech
