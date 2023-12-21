@@ -1,4 +1,4 @@
-<div align="right">banner by: https://www.behance.net/pixeljeff</div>
+<div align="right"> banner by: https://www.behance.net/pixeljeff </div>
 
 ![banner](banner.webp)
 
