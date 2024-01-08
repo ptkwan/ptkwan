@@ -1,22 +1,27 @@
-## Olá eu sou o Patrick Kwan, um físico médico em busca de me aperfeiçoar na área de programação e tecnologia!
+## 👋 Olá, seja bem-vindo ao meu GitHub!
 
-Atualmente realizo o curso de Dados na Ada | Potencia Tech powered by iFood #vemsertech
+👨‍💻 Sobre mim
+Graduado em Física Médica pela UNESP, técnico em mecatrônica pelo SENAI e atualmente realizando um curso na área de Dados pela Ada Tech | em parceria com o iFood, sou apaixonado por Python e dedicado à análise de dados e ciência de dados. Meu foco principal é me aprimorar na área de dados e no desenvolvimento back-end, utilizando a versatilidade e poder do Python!
 
-Nosso foco será:
+🛠️ Tecnologias Principais
+Python: Minha linguagem de programação preferida, eu utilizo tanto para análise de dados quanto para desenvolvimento back-end em alguns projetos pessoais.
 
-Dados - 324h
+Análise de Dados e Ciência de Dados: Gosto muito da área de dados, identificar padrões e extrair insights. Uso o SQL e bibliotecas como pandas, NumPy e scikit-learn para análises complexas e modelagem de dados.
 
-→ Lógica de Programação I (PY)
+Desenvolvimento Back-end: Busco me aprimorar cada vez mais no desenvolvimento Back-end utilizando Python, por ser uma linguagem de fácil compreensão e abrir portas para diversas frentes! 
 
-→ Lógica de Programação II (PY)
+🌐 Conhecimentos Front-end
+Além do meu foco no back-end, também tenho habilidades no desenvolvimento front-end:
 
-→ Banco de Dados I
+HTML, CSS: Fundamentos para criar interfaces web.
 
-→ Técnicas de Programação I (PY)
+JavaScript: Também utilizo o JavaScript para adicionar interatividade às minhas páginas web, criando melhores experiências!
 
-→ Estatística I
+🚀 Projetos Destacados
+Aqui no meu perfil você irá encontrar alguns dos meus projetos mais relaventes, tanto para a parte de dados e Back-end, quanto para o Front-end!
 
-→ Visualização com Power BI
+Espero que você encontre algo interessante por aqui. Fique à vontade para entrar em contato se tiver perguntas ou se quiser criar algum projeto! 🚀
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
