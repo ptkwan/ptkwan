@@ -8,7 +8,7 @@ Graduado em Física Médica pela UNESP, técnico em mecatrônica pelo SENAI e at
 
 Python: Minha linguagem de programação preferida, eu utilizo tanto para análise de dados quanto para desenvolvimento back-end em alguns projetos pessoais.
 
-Análise de Dados e Ciência de Dados: Gosto muito da área de dados, identificar padrões e extrair insights. Uso o SQL e bibliotecas como pandas, NumPy e scikit-learn para análises complexas e modelagem de dados.
+Análise de Dados e Ciência de Dados: Gosto muito da área de dados, identificar padrões e extrair insights a partir de um conjunto de dados. Uso o SQL e bibliotecas como pandas, NumPy e scikit-learn para análises complexas e modelagem de dados.
 
 Desenvolvimento Back-end: Busco me aprimorar cada vez mais no desenvolvimento Back-end utilizando Python, por ser uma linguagem de fácil compreensão e abrir portas para diversas frentes! 
 
@@ -19,6 +19,18 @@ Além do meu foco no back-end, também tenho habilidades no desenvolvimento fron
 HTML, CSS: Fundamentos para criar interfaces web.
 
 JavaScript: Também utilizo o JavaScript para adicionar interatividade às minhas páginas web, criando melhores experiências!
+
+🌱 Tecnologias em aprendizado:
+
+Power BI;
+
+Next.js;
+
+Angular;
+
+React;
+
+TypeScript.
 
 🚀 Projetos Destacados
 
