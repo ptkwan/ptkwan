@@ -1,5 +1,7 @@
-<div align-text="center"> 
-  ### 👋 Olá, seja bem-vindo ao meu GitHub!
+<div> 
+  <a align="center">
+      ### 👋 Olá, seja bem-vindo ao meu GitHub!
+  </a>
 </div>
 
 ## 👨‍💻 Sobre mim
