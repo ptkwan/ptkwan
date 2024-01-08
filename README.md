@@ -1,9 +1,4 @@
-<div align="center">
 ## 👋 Olá, seja bem-vindo ao meu GitHub!
-
-</a>
-</div>
-
 
 ##👨‍💻 Sobre mim
 
