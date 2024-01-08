@@ -1,6 +1,6 @@
 ## 👋 Olá, seja bem-vindo ao meu GitHub!
 
-##👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
 Graduado em Física Médica pela UNESP, técnico em mecatrônica pelo SENAI e atualmente realizando um curso na área de Dados pela Ada Tech | em parceria com o iFood, sou apaixonado por Python e dedicado à análise de dados e ciência de dados. Meu foco principal é me aprimorar na área de dados e no desenvolvimento back-end, utilizando a versatilidade e poder do Python!
 
