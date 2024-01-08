@@ -5,6 +5,7 @@
 Graduado em Física Médica pela UNESP, técnico em mecatrônica pelo SENAI e atualmente realizando um curso na área de Dados pela Ada Tech | em parceria com o iFood, sou apaixonado por Python e dedicado à análise de dados e ciência de dados. Meu foco principal é me aprimorar na área de dados e no desenvolvimento back-end, utilizando a versatilidade e poder do Python!
 
 🛠️ Tecnologias Principais
+
 Python: Minha linguagem de programação preferida, eu utilizo tanto para análise de dados quanto para desenvolvimento back-end em alguns projetos pessoais.
 
 Análise de Dados e Ciência de Dados: Gosto muito da área de dados, identificar padrões e extrair insights. Uso o SQL e bibliotecas como pandas, NumPy e scikit-learn para análises complexas e modelagem de dados.
@@ -12,6 +13,7 @@ Análise de Dados e Ciência de Dados: Gosto muito da área de dados, identifica
 Desenvolvimento Back-end: Busco me aprimorar cada vez mais no desenvolvimento Back-end utilizando Python, por ser uma linguagem de fácil compreensão e abrir portas para diversas frentes! 
 
 🌐 Conhecimentos Front-end
+
 Além do meu foco no back-end, também tenho habilidades no desenvolvimento front-end:
 
 HTML, CSS: Fundamentos para criar interfaces web.
@@ -19,6 +21,7 @@ HTML, CSS: Fundamentos para criar interfaces web.
 JavaScript: Também utilizo o JavaScript para adicionar interatividade às minhas páginas web, criando melhores experiências!
 
 🚀 Projetos Destacados
+
 Aqui no meu perfil você irá encontrar alguns dos meus projetos mais relaventes, tanto para a parte de dados e Back-end, quanto para o Front-end!
 
 Espero que você encontre algo interessante por aqui. Fique à vontade para entrar em contato se tiver perguntas ou se quiser criar algum projeto! 🚀
