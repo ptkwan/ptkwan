@@ -40,7 +40,7 @@ Aqui no meu perfil você irá encontrar alguns dos meus projetos mais relaventes
 Espero que você encontre algo interessante por aqui. Fique à vontade para entrar em contato se tiver perguntas ou se quiser criar algum projeto! 🚀
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptkwan&repo=Portfolio-Python)](https://github.com/ptkwan/Portfolio-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptkwan&repo=Portfolio-Python\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515))](https://github.com/ptkwan/Portfolio-Python)
 
 
 
