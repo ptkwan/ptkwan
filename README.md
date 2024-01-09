@@ -40,7 +40,8 @@ Aqui no meu perfil você irá encontrar alguns dos meus projetos mais relaventes
 Espero que você encontre algo interessante por aqui. Fique à vontade para entrar em contato se tiver perguntas ou se quiser criar algum projeto! 🚀
 
 
-[![Readme Card]([https://github.com/ptkwan/Portfolio-Python)])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptkwan&repo=Porfolio-Python)](https://github.com/ptkwan/Portfolio-Python)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
