@@ -3,7 +3,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Graduado em Física Médica pela UNESP, técnico em mecatrônica pelo SENAI e atualmente realizando um curso na área de Dados pela Ada Tech | em parceria com o iFood, sou apaixonado por Python e dedicado à análise de dados e ciência de dados. Meu foco principal é me aprimorar na área de dados e no desenvolvimento back-end, utilizando a versatilidade e poder do Python!
+Cientista de Dados Jr. pela equipe de DataOPS com experiência em análise e ciência de dados, atualmente na empresa Mindsight. Graduado em Física Médica pela UNESP e com formação em Dados pela Ada Tech. Experiência em projetos de biotecnologia e bioinformática, além de sólida formação em Python, Excel, SQL e Power BI. Habilidade em aplicar técnicas de aprendizado de máquina e análise estatística para gerar insights e otimizar processos.
 
 ## 🛠️ Tecnologias Principais
 
@@ -21,17 +21,16 @@ HTML, CSS: Fundamentos para criar interfaces web.
 
 JavaScript: Também utilizo o JavaScript para adicionar interatividade às minhas páginas web, criando melhores experiências!
 
-## 🌱 Tecnologias em aprendizado:
+## 🌱 Tecnologias:
 
 Power BI;
 
-Next.js;
+Python;
 
-Angular;
+SQL;
 
-React;
+Excel;
 
-TypeScript.
 
 ## 🚀 Projetos Destacados
 
