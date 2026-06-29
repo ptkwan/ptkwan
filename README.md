@@ -3,33 +3,20 @@
 
 ## 👨‍💻 Sobre mim
 
-Cientista de Dados Jr. pela equipe de DataOPS com experiência em análise e ciência de dados, atualmente na empresa Mindsight. Graduado em Física Médica pela UNESP e com formação em Dados pela Ada Tech. Experiência em projetos de biotecnologia e bioinformática, além de sólida formação em Python, Excel, SQL e Power BI. Habilidade em aplicar técnicas de aprendizado de máquina e análise estatística para gerar insights e otimizar processos.
+Profissional de Dados com foco em Business Intelligence, Analytics e Machine Learning, atuando na transformação de dados em insights para apoiar decisões de negócio em marketing, mídia e performance.
 
-## 🛠️ Tecnologias Principais
+Tenho experiência com SQL, Python, BigQuery, GCP, Looker Studio e GA4, desenvolvendo dashboards, análises de performance, automações e indicadores estratégicos.
 
-Python: Minha linguagem de programação preferida, eu utilizo tanto para análise de dados quanto para desenvolvimento back-end em alguns projetos pessoais.
+Atuo na modelagem de dados, estruturação de KPIs e análise de comportamento de usuários, com foco em geração de insights e otimização de resultados de negócio.
 
-Análise de Dados e Ciência de Dados: Gosto muito da área de dados, identificar padrões e extrair insights a partir de um conjunto de dados. Uso o SQL e bibliotecas como pandas, NumPy e scikit-learn para análises complexas e modelagem de dados.
+Tenho interesse e atuação em Machine Learning Engineering e MLOps, com experiência em MLflow, FastAPI e arquiteturas de deploy de modelos. Também possuo conhecimento em Databricks e arquitetura Lakehouse.
 
-Desenvolvimento Back-end: Busco me aprimorar cada vez mais no desenvolvimento Back-end utilizando Python, por ser uma linguagem de fácil compreensão e abrir portas para diversas frentes! 
+Utilizo IA generativa (Claude, Claude Code e ChatGPT) para acelerar análises, documentação, geração de código e construção de relatórios.
 
-## 🌐 Conhecimentos Front-end
+Bacharel em Física Médica pela UNESP | Pós-graduando em Machine Learning Engineering pela FIAP
 
-Além do meu foco no back-end, também tenho habilidades no desenvolvimento front-end:
+Tecnologias: SQL • Python • BigQuery • GCP • Databricks • GA4 • Looker Studio • Power BI • MLflow • FastAPI • IA Generativa
 
-HTML, CSS: Fundamentos para criar interfaces web.
-
-JavaScript: Também utilizo o JavaScript para adicionar interatividade às minhas páginas web, criando melhores experiências!
-
-## 🌱 Tecnologias:
-
-Power BI;
-
-Python;
-
-SQL;
-
-Excel;
 
 
 ## 🚀 Projetos Destacados
